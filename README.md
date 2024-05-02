@@ -5,7 +5,7 @@
 게이머들을 위한 자신만의 명함 서비스
 <br/><br/>
 <div align="center">
-  <img width="900" alt="Tylegg 메인 기능" src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb">
+  <img width="700" alt="Tylegg 메인 기능" src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb">
 </div>
 <br />
 
@@ -17,7 +17,7 @@
 
 | 소개 페이지 | 명함 페이지 |
 | --- | --- |
-|<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/6fa5d217-099c-4fc0-b10e-faa57777ffa5" width="500">  |<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb" width="500" >|
+|<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/6fa5d217-099c-4fc0-b10e-faa57777ffa5" width="350">  |<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb" width="350" >|
 
 <br/><br/><br/><br/>
 ## 개발자 소개
