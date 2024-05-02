@@ -17,7 +17,7 @@
 
 | 소개 페이지 | 명함 페이지 |
 | --- | --- |
-|<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/6fa5d217-099c-4fc0-b10e-faa57777ffa5" width="350">  |<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb" width="350" >|
+|<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/6fa5d217-099c-4fc0-b10e-faa57777ffa5" width="500">  |<img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/76cfeb49-271f-4b04-a6ee-247abe0f66fb" width="500" >|
 
 <br/><br/><br/><br/>
 ## 개발자 소개
@@ -94,6 +94,19 @@
 
 ## 기능 소개
 게이머들의 개인 명함(프로필)을 제공합니다.
+| 메인 홈페이지 | 게이머 명함 기능 |
+| --- | --- |
+| ![메인페이지_스크롤](https://github.com/Gotkwondo/Tylegg/assets/91406371/2563e5fe-d672-4c8c-9297-c7efb37497ff) | ![개인 명함](https://github.com/Gotkwondo/Tylegg/assets/91406371/e2f6ef1c-7232-480d-b0d8-0ee4e7c03e72) |
 
+<br/><br/>
+
+### 메인 기능
+
+| 마일스톤 관리 | 마일스톤 생성 |
+| --- | --- |
+| ![개인 명함](https://github.com/Gotkwondo/Tylegg/assets/91406371/e2f6ef1c-7232-480d-b0d8-0ee4e7c03e72) | ![명함 생성기능](https://github.com/Gotkwondo/Tylegg/assets/91406371/e474af92-394e-4cf2-a2d7-05268529ec98)|
+| 게이머 개인의 경력과 주포지션, 주캐릭터를 기록해 어필할 수 있습니다 | 자신만의 명함을 제작할 수 있습니다 |
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
