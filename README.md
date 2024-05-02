@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&width=1200&section=header" />
 # TYLEGG
 <br />
 <img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/eb40b24d-078a-4a20-8a23-c19a7960e221" style="width: 150px; " />
