@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" width=1200 />
-# TYLEGG
 <br />
+
+# TYLEGG
+
 <img src="https://github.com/Gotkwondo/Tylegg/assets/91406371/eb40b24d-078a-4a20-8a23-c19a7960e221" style="width: 150px; " />
 게이머들을 위한 자신만의 명함 서비스
 <br/><br/>
